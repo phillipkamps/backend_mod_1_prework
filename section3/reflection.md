@@ -26,4 +26,4 @@ pet_store = {'cat food' => 10, 'dog food' => 25, 'cat toys' => 9, 'dog toys' => 
 *A hash could be used to store metadata about an email or social media post. Hashes could be considered 'better' than arrays because they are capable of storing more information in a specific and concise way than arrays.*
 
 1. What questions do you still have about hashes?
-*None that I can't google! ;)*
+*None that I can't google! :)*
