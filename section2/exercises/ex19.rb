@@ -40,9 +40,10 @@ my_function(0, 1)
 
 script_variable1 = 1
 script_variable2 = 1
+
 my_function(script_variable1, script_variable2)
 
-my_function(10 - 9, 2*1)
+my_function(10 - 9, 2 * 1)
 
 my_function(script_variable1 * 3, script_variable2 * 1)
 
